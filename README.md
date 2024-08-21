@@ -1,8 +1,8 @@
 #### Hi there 👋
 
 ## 💫 About Me:
-💻 Mid-level software developer<br>
-🚀 JavaScript and React enthusiast<br>
+💻 Mid-level Software Developer<br>
+🚀 JavaScript and React Enthusiast<br>
 🌱 Learning Golang<br>
 🔭 Actively seeking new opportunities
 
