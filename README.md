@@ -3,7 +3,7 @@
 ## 💫 About Me:
 💻 Mid-level Software Developer<br>
 🚀 JavaScript and React Enthusiast<br>
-🌱 Learning Golang<br>
+🌱 Learning AI/ML<br>
 🔭 Actively seeking new opportunities
 
 ## 🌐 Socials:
